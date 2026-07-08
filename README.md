@@ -2,9 +2,9 @@
 
 ## Project Overview
 
-This project contains the manual testing documentation created during the TripleTen QA Bootcamp.
+This project contains the manual testing documentation developed during the TripleTen QA Bootcamp.
 
-The objective was to execute manual tests, validate the user interface, identify defects, and report bugs using Jira.
+The objective was to execute manual tests, validate the user interface, identify software defects, and document bug reports using Jira following QA best practices.
 
 ---
 
@@ -29,9 +29,10 @@ The objective was to execute manual tests, validate the user interface, identify
 
 ## Repository Structure
 
+- Test Checklist
 - Test Cases
 - Bug Reports
-- Test Evidence
+- Jira Issue Tracking
 
 ---
 
